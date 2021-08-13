@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Gestión de usuarios en REQ-IN" skipped="0" tests="1" time="12.1" timestamp="2021-08-12 12:15:22"><testcase name="Consulta exitosa de todos los usuarios"><error message="null" type="java.lang.AssertionError">null</error><system-err>null&#13;
+screenplay.steps.OkrSteps.puedeRecuperarLaInformacionDeLosUsuariosConSusOKRSCorrectamente(OkrSteps.java:35)&#13;
+✽.puede recuperar la informacion de los usuarios con sus OKRS correctamente(file:///C:/Users/KEVIN%20ALVAREZ/retofinalokr/src/test/resources/features/okr.feature:7)&#13;
+</system-err></testcase></testsuite>
